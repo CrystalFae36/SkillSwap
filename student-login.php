@@ -9,6 +9,5 @@
     <title>SkillSwap - Student Login</title>
 </head>
 <body>
-    
 </body>
 </html>

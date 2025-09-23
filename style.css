@@ -1,0 +1,19 @@
+.home-nav{
+    display:flex;
+    justify-content:space-between;
+    width:100%;
+    background-color:#005082;
+}
+.home-nav a{
+    color:white;
+}
+.home-nav-spacing{
+    display:flex;
+    justify-content:space-around;
+}
+
+.home-nav-spacing a{
+    color:white;
+    padding:10px;
+    font-size:15pt;
+}
