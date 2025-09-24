@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.home-nav{
+    display:flex;
+    justify-content:space-between;
+    width:100%;
+    height:75px;
+    background-color:#005082;
+}
+.home-nav a{
+    color:white;
+}
+.home-nav-spacing{
+    display:flex;
+    align-items:stretch;
+}
+.home-nav-box{
+    display:flex;
+    align-items:center;
+}
+.home-nav-box:hover{
+    background-color:#003455;
+}
+.home-nav-spacing a{
+    color:white;
+    padding:10px;
+    font-size: 16pt;
+    text-decoration-line:none;
+    text-align:center;
+    vertical-align:middle;
+}
+.account-type-select{
+    display:flex;
+    
+}

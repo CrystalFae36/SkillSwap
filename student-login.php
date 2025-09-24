@@ -7,7 +7,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SkillSwap - Student Login</title>
+    <link rel="stylesheet" href="landing-style.css">
 </head>
 <body>
+    <nav>
+        <div class="home-nav">
+            <div class="home-nav-spacing">
+                <div class="home-nav-box">
+                    <a href="index.html">Image Placeholder</a>
+                </div>
+            </div>
+            <div class="home-nav-spacing">
+                <div class="home-nav-box">
+                    <a href="select-account-login.html">Sign In</a>
+                </div>
+                <div class="home-nav-box">
+                    <a href="select-account-signup.html">Sign Up</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+
+
+
 </body>
 </html>
